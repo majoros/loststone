@@ -3,27 +3,35 @@
 
 The loststone project is a fully open source trackball. loststone was designed
 from ground up. It is not based on any existing designs. It does however take
-inspiration of existing opensourse projects such as [mbed](http://mbed.org) and
+inspiration of existing open source projects such as [mbed](http://mbed.org) and
 [USBug](http://squonk42.github.com/USBug/)
 
 ##Fetures
 =========
 
-loststone is being designed to perform as well as any trackballs/mice
-on the market today.
+loststone is being designed to perform as well as any trackball/mouse on the
+market today. In addition it is going to have several features that are not found
+on any product yet offered.
 
+   * Fully Open-Source:<br>
+     Hardware & Software (CC-BY-SA, GPL3)
    * No drivers:<br>
-     Drivers are annoying. **ESPECIALLY** when there is absolutely no need for
-     them. Lost stone is being designed to use the OS level HID drivers. This
-     includes all configurations.
+     Drivers are annoying. Especially when there is no need for them. Lost stone
+     is being designed to use the OS level HID drivers.
+   * Fully configurable:<br>
+     Anything that could be configurable will be configurable, without having
+     to change the code and flash the chip. [Default configuration file.](https://github.com/Majoros/loststone/blob/master/config/loststone.cfg)
+   * Easily programmable:<br>
+     If there is a need to flash the firmware it is as easy as copying a file to
+     a flash drive.
    * Firmware cursor acceleration:<br>
      Cursor acceleration is implemented within the firmware.
    * Fully programmable buttons:<br>
      You want the left button to be on the right and the right button on the
-     left? Sure.
+     left? go for it. No need to change any hardware or software.
    * Profiles:<br>
      There are 5 selectable profiles. Each profile has the ability to configure
-     any and all programmable features. This is good for multiptle users are a
+     any and all programmable features. This is good for multiple users or a
      single users that like different settings for different situations.
 
 ##Specifications
@@ -34,9 +42,11 @@ on the market today.
      * High speed motion: 150ips and 30G
      * Frame rate: Up to 11,750fps
      * Selectable resolution: Up to 5040cpi with 90cpi step size
-     * independent X and Y resolutions
-   * **Main Processing * Unit**([LPC11U24(http://www.nxp.com/products/microcontrollers/cortex_m0_m0/LPC11U24FBD48.html)):
+     * Independent X and Y resolutions
+   * **MCU**([LPC11U24](http://www.nxp.com/products/microcontrollers/cortex_m0_m0/LPC11U24FBD48.html)):
      * Processing Power: Cortex-M0, which is, to say the least complete overkill.
+     * Easily programmable: Thanks to the LPC11U24 reprograming is as easy as
+       copying a file to a flash drive.
      * GPIO: with 40 GPIO pins there are more than enough pins for buttons and
        LED's and anything else that may come up.
 
