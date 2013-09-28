@@ -2,7 +2,7 @@
 =========
 
 The loststone project is a fully open source trackball. loststone was designed
-from ground up. It is not based on any existing designs. It does however take
+from ground up. It is not based on any existing trackballs or mice. It does however take
 inspiration of existing open source projects such as [mbed](http://mbed.org) and
 [USBug](http://squonk42.github.com/USBug/)
 
@@ -23,9 +23,9 @@ on any product yet offered.
      to change the code and flash the chip. [Default configuration file.](https://github.com/Majoros/loststone/blob/master/config/loststone.cfg)
    * Easily programmable:<br>
      If there is a need to flash the firmware it is as easy as copying a file to
-     a flash drive.
+     a flash drive (Thank you NXP).
    * Firmware cursor acceleration:<br>
-     Cursor acceleration is implemented within the firmware.
+     Cursor acceleration is implemented within the firmware. It is configurable and optional.
    * Fully programmable buttons:<br>
      You want the left button to be on the right and the right button on the
      left? go for it. No need to change any hardware or software.
@@ -38,7 +38,7 @@ on any product yet offered.
 
 ####Hardware
 
-   * **Sensor**([ADNS-9500](http://www.avagotech.com/pages/en/navigation_interface_devices/navigation_sensors/laserstream/adns-9500/)):
+   * **Sensor**([ADNS-9500](http://www.pixart.com.tw/product_data_table.asp?ToPage=1&productclassify_id=1&productclassify2_id=3)):
      * High speed motion: 150ips and 30G
      * Frame rate: Up to 11,750fps
      * Selectable resolution: Up to 5040cpi with 90cpi step size
@@ -54,3 +54,9 @@ on any product yet offered.
 
    * Any OS released in the past decade.
      Ok, to be a bit more specific an OS that supports USB HID
+
+## Support
+
+If anyone else actually decides to make one of these and you come accross any issues use the ([github issue
+tracker](https://github.com/Majoros/loststone/issues)).
+
