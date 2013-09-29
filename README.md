@@ -60,3 +60,4 @@ on any product yet offered.
 If anyone else actually decides to make one of these and you come accross any issues use the ([github issue
 tracker](https://github.com/Majoros/loststone/issues)).
 
+![Main board PCB](https://raw.github.com/Majoros/loststone/master/images/main_board_top.png)
