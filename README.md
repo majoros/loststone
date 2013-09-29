@@ -64,7 +64,7 @@ tracker](https://github.com/Majoros/loststone/issues)).
 
 The circuitry was designed using ([DipTrace](http://www.diptrace.com/)). The files are available in the git repository.
 
-#### PCB
+#### PCB Rendering
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ The circuitry was designed using ([DipTrace](http://www.diptrace.com/)). The fil
         <img alt="Main board PCB" src="https://raw.github.com/Majoros/loststone/master/images/main_board_top.png"
     </td>
     <td>
-        <img alt="Sensor board PCB" src"https://raw.github.com/Majoros/loststone/master/images/sensor_board_top.png" >
+        <img alt="Sensor board PCB" src="https://raw.github.com/Majoros/loststone/master/images/sensor_board_top.png" >
     </td>
   </tr>
 </table>
