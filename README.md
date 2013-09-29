@@ -62,17 +62,17 @@ tracker](https://github.com/Majoros/loststone/issues)).
 
 ## Design
 
-The circuitry was designed using ![DipTrace](http://www.diptrace.com/). The files are available in the git repository.
+The circuitry was designed using ([DipTrace](http://www.diptrace.com/)). The files are available in the git repository.
 
 #### PCB
 
 <table>
   <tr>
     <td>
-        ![Main board PCB](https://raw.github.com/Majoros/loststone/master/images/main_board_top.png)
+        <img alt="Main board PCB" src="https://raw.github.com/Majoros/loststone/master/images/main_board_top.png"
     </td>
     <td>
-        ![Sensor board PCB](https://raw.github.com/Majoros/loststone/master/images/sensor_board_top.png)
+        <img alt="Sensor board PCB" src"https://raw.github.com/Majoros/loststone/master/images/sensor_board_top.png" >
     </td>
   </tr>
 </table>
@@ -82,10 +82,14 @@ The circuitry was designed using ![DipTrace](http://www.diptrace.com/). The file
 <table>
   <tr>
     <td>
-        ![Main board schematic](https://raw.github.com/Majoros/loststone/master/images/main_board_schematic.png)
+        <a href="https://github.com/Majoros/loststone/raw/master/docs/main_board_schematic.pdf" >
+        <img alt="Main board schematic" src="https://raw.github.com/Majoros/loststone/master/images/main_board_schematic.png" >
+        </a>
     </td>
     <td>
-        ![Sensor board schematic](https://raw.github.com/Majoros/loststone/master/images/sensor_board_schimatic.png)
+        <a href="https://github.com/Majoros/loststone/raw/master/docs/sensor_board_schematic.pdf" >
+        <img alt="Sensor board schematic" src="https://raw.github.com/Majoros/loststone/master/images/sensor_board_schimatic.png" >
+        </a>
     </td>
   </tr>
 </table>
