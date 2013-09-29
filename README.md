@@ -93,3 +93,35 @@ The circuitry was designed using ([DipTrace](http://www.diptrace.com/)). The fil
     </td>
   </tr>
 </table>
+
+## Bill Of Materials
+
+| Value |  Manufacturer |   Mouser Part # |  Quantity |
+| -------------------- | ----------------------- | -------------------- | --- | 
+| 0.01uF/630V | TDK | 810-CGA5L4C0G2J103J | 1
+| 4.7uF |   TDK | 810-C1608X6S1C475K  | 2
+| 470pF |   TDK | 810-C0603X7R1H471K  | 1
+| 0.1uF |   TDK | 810-CGJ3E2X7R1C104K | 9
+| 1uF/16V | TDK | 810-C1608X7R1C105K  | 1
+| 10uF |    TDK | 810-C1608X5R1C106M  | 3
+| 0.01uF |  TDK | 810-CGJ3E2X7R1C103K | 2
+| 18pF/50V |    TDK | 810-C1608C0G1H180J  | 2
+| 1000pF |  TDK | 810-C1608C0G1H121J  | 2
+| 1.5nH |   Skyworks Solutions  | 873-SMV1233-011LF   | 4
+| FPF2123 | Fairchild Semiconductor | 512-FPF2123 | 1
+| LD1117S33TR | STMicroelectronics  | 511-LD1117S33   | 1
+| PRTR5V0U2X |  NXP Semiconductors  | 771-PRTR5V0U2X-T/R  | 1
+| 64K EEPROM |  Microchip   | 579-25LC640A-E/SN   | 1
+| LPC11U24FBD48/401 |   NXP | 771-LPC11U24FBD48401    | 1
+| MC14490PG |   ON Semiconductor    | 863-MC14490DWG  | 2
+| UX60SC-MB-5S8 |   Hirose  | 798-UX60-MB-5S8 | 1
+| NTA4151P |    ON Semiconductor    | 863-NTA4151PT1G | 1
+| RGB_LED | KingBright  | 604-WP154A4-RGB | 1
+| 33R | Vishay/Dale | 71-CRCW020133R0FNED | 5
+| 1M |  Vishay/Dale | 71-CRCW02011M00FKED | 1
+| 1K |  Vishay/Dale | 71-CRCW02011K00FNED | 2
+| 100K |    Vishay/Dale | 71-CRCW0201100KFKED | 1
+| 20K | Vishay/Dale | 71-CRCW020120K0FKED | 1
+| TL_6100 | E-Switch    | 612-TL6100AF130QP   | 2
+| 12MHz |   AVX | 581-CX3225GB12000HE | 1
+
