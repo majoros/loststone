@@ -52,12 +52,18 @@ on any product yet offered.
 
 ## System Requirements
 
-   * Any OS released in the past decade.
-     Ok, to be a bit more specific an OS that supports USB HID
+Any OS released in the past decade.  Ok, to be a bit more specific an OS that supports USB HID.
+
+The following operating systems have been tested.
+
+    * Arch Linux
+    * Ubuntu
+    * Windows 7
+    * Windows XP
 
 ## Support
 
-If anyone else actually decides to make one of these and you come accross any issues use the ([github issue
+If anyone else actually decides to make one of these and you come across any issues use the ([github issue
 tracker](https://github.com/Majoros/loststone/issues)).
 
 ## Design
@@ -95,6 +101,14 @@ The circuitry was designed using ([DipTrace](http://www.diptrace.com/)). The fil
 </table>
 
 ## Bill Of Materials
+
+All parts can be found on and ordered from
+([mouser.com]http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e7c9313214). This the exception of the
+ADNS-9500. It was discontinued by Avago after they sold allot of there IP's to Pixart. The ADNS-9500 and 9800 can both
+be found on ([Pixarts](http://www.pixart.com.tw/product_data_table.asp?ToPage=1&productclassify_id=1&productclassify2_id=3))
+site but none of the distributors have yet to carry them. I was lucky and bought three of them just
+before they where discontinued. I am down to my last one so I really hope someone starts selling them again.
+
 
 | Value |  Manufacturer |   Mouser Part # |  Quantity |
 | -------------------- | ----------------------- | -------------------- | --- | 
